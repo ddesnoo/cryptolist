@@ -1,0 +1,4 @@
+Jul 29, 2022 6:56:10 AM ddesnoo.nl.CryptoList.Logging LogFile
+INFO: Log file generated
+Jul 29, 2022 6:56:20 AM ddesnoo.nl.CryptoList.Logging Log
+INFO: Get request received on /currencies, Sorting and paging requestparams given, Returning records from the database based on the following parameters: Sort: name, Page: 2 Pagesize: 2
